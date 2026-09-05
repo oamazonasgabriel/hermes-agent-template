@@ -106,4 +106,4 @@ Open `http://localhost:8080` and log in with `admin` / `changeme`.
 ## Credits
 
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) by [Nous Research](https://nousresearch.com/)
-- UI inspired by [OpenClaw](https://github.com/praveen-ks-2001/openclaw-railway) admin template
+- Maintained by [impacte.tech](https://impacte.tech)
